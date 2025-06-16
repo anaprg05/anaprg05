@@ -6,15 +6,6 @@
 🎨 Artista digital y creadora de soluciones técnicas creativas  <br>
 📍 Tres de Febrero, Buenos Aires  
 
-```javascript
-// Mi enfoque de desarrollo
-const miEnfoque = () => {
-  const codigoLimpio = true;
-  const experienciaUsuario = true;
-  return codigoLimpio && experienciaUsuario;
-}
-```
-
 ## 🌟 Conectate Conmigo
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ani.p.rg)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anapaularíosgarín)<br/>
