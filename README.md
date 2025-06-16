@@ -1,12 +1,12 @@
-# ¡Hola! 👋 Soy Ana Paula Ríos Garín
+# Hello! 👋 I'm Ana Paula Ríos Garín
 
-## 👩‍💻 Sobre Mí  
-🎓 Estudiante de la **Tecnicatura en Programación** en UTN FRSR <br>
-💻 Desarrolladora full-stack apasionada por JavaScript y diseño accesible  <br>
-🎨 Artista digital y creadora de soluciones técnicas creativas  <br>
+## 👩‍💻 About Me  
+🎓 Student of Programming Technician at UTN FRSR <br>
+💻 Full-stack developer passionate about JavaScript and accessible design  <br>
+🎨 Digital artist and creator of creative technical solutions  <br>
 📍 Tres de Febrero, Buenos Aires  
 
-## 🌟 Conectate Conmigo
+## 🌟 Connect With Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ani.p.rg)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anapaularíosgarín)
 
@@ -16,31 +16,31 @@
 
 </div>
 
-# 💻 Stack Tecnológico
-## ⌨️ Lenguajes de Programación
+# 💻 Tech Stack
+## ⌨️ Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)<br/> 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)<br/> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-## 🌐 Desarrollo Frontend 
+## 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)<br/> 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 ## ⚙️ Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
-## 🗄️ Bases de Datos
+## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)<br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)<br/> 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-## 🎨 Diseño & Multimedia
+## 🎨 Design & Multimedia
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)<br/> 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)<br/> 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)<br/> 
 ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
 
-## 🛠️ DevOps & Herramientas
+## 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)<br/>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)<br/> 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)<br/> 
@@ -52,16 +52,16 @@
 
 </div>
 
-## 📚 Cursos en Progreso
+## 📚 Courses in Progress
 
 <div align="center">
 
-| Curso | Descripción |
+| Course | Description |
 |-------|-------------|
-| [🚀 React en acción: De cero a experto](https://cursos.desafiolatam.com/courses/react-en-accion) | Dominio completo del ecosistema React para desarrollo frontend moderno |
-| [♿ Diseño accesible e inclusivo](https://cursos.desafiolatam.com/courses/diseno-accesible-inclusivo) | Creación de interfaces accesibles para todos los usuarios |
-| [⚙️ Back End en serio: Node.js, Express](https://cursos.desafiolatam.com/courses/back-end-en-serio) | Desarrollo backend profesional con tecnologías demandadas en 2025 |
-| [🐍 Frontend con Python](https://cursos.desafiolatam.com/courses/aprende-frontend-python)  | Técnicas innovadoras para desarrollo frontend usando Python |
+| [🚀 React en acción: De cero a experto](https://cursos.desafiolatam.com/courses/react-en-accion) | Mastery of the complete React ecosystem for modern frontend development |
+| [♿ Diseño accesible e inclusivo](https://cursos.desafiolatam.com/courses/diseno-accesible-inclusivo) | Creating accessible interfaces for all users |
+| [⚙️ Back End en serio: Node.js, Express](https://cursos.desafiolatam.com/courses/back-end-en-serio) | Professional backend development with in-demand 2025 technologies |
+| [🐍 Frontend con Python](https://cursos.desafiolatam.com/courses/aprende-frontend-python)  | Innovative techniques for frontend development using Python |
 
 </div>
 
@@ -71,10 +71,10 @@
 
 </div>
 
-## 🏆 Proyectos Destacados
-### 💻 Proyectos En Proceso
-- [Artes Arcoíris](https://github.com/anaprg05/artesArcoiris.git) - Proyecto creativo combinando arte y programación
-- [Yo Dibujo](https://github.com/anaprg05/YoDibujo.git) - Aplicación interactiva para artistas digitales
+## 🏆 Featured Projects
+### 💻 Projects in Progress
+- [Artes Arcoíris](https://github.com/anaprg05/artesArcoiris.git) - Creative project combining art and programming
+- [Yo Dibujo](https://github.com/anaprg05/YoDibujo.git) - Website for digital artists
 
 <div align="center">
 
@@ -82,8 +82,8 @@
 
 </div>
 
-## 📜 Certificaciones
-- IA Generativa - Junior Achievement Argentina (En curso)
+## 📜 Certifications
+- IA Generativa - Junior Achievement Argentina (In progress)
 - CSS Avanzado - Desafío Latam (2025)
 - Yo Puedo Programar - Junior Achievement (2021)
 
@@ -93,9 +93,9 @@
 
 </div>
 
-## 💡 Habilidades Clave
-- Técnicas: Desarrollo full-stack, Bases de datos, UI/UX
-- Blandas: Trabajo en equipo, Aprendizaje rápido, Creatividad
+## 💡 Key Skills
+- Technical: Full-stack development, Databases, UI/UX
+- Soft: Teamwork, Fast learning, Creativity
 
 <div align="center">
 
@@ -103,7 +103,7 @@
 
 </div>
 
-## 📊 Estadísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
