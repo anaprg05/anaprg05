@@ -52,25 +52,6 @@
 
 </div>
 
-## 📚 Courses in Progress
-
-<div align="center">
-
-| Course | Description |
-|-------|-------------|
-| [🚀 React en acción: De cero a experto](https://cursos.desafiolatam.com/courses/react-en-accion) | Mastery of the complete React ecosystem for modern frontend development |
-| [♿ Diseño accesible e inclusivo](https://cursos.desafiolatam.com/courses/diseno-accesible-inclusivo) | Creating accessible interfaces for all users |
-| [⚙️ Back End en serio: Node.js, Express](https://cursos.desafiolatam.com/courses/back-end-en-serio) | Professional backend development with in-demand 2025 technologies |
-| [🐍 Frontend con Python](https://cursos.desafiolatam.com/courses/aprende-frontend-python)  | Innovative techniques for frontend development using Python |
-
-</div>
-
-<div align="center">
-
-⋅⋅⋅──────────────────── ∗ ⋅✧⋅ ∗ ────────────────────⋅⋅⋅
-
-</div>
-
 ## 🏆 Featured Projects
 ### 💻 Projects in Progress
 - [Artes Arcoíris](https://github.com/anaprg05/artesArcoiris.git) - Creative project combining art and programming
