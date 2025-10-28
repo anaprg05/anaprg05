@@ -64,7 +64,7 @@
 </div>
 
 ## 📜 Certifications
-- IA Generativa - Junior Achievement Argentina (In progress)
+- IA Generativa - Junior Achievement Argentina (2025)
 - CSS Avanzado - Desafío Latam (2025)
 - Yo Puedo Programar - Junior Achievement (2021)
 
