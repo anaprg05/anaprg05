@@ -29,6 +29,9 @@
 ## ⚙️ Backend & Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 
+## 🧩 CMS & Platforms
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
+
 ## 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)<br/>
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)<br/> 
